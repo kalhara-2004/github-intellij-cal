@@ -1,6 +1,5 @@
 import  java.util.Scanner;
 
-
 public class shoppingCart {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

@@ -31,7 +31,7 @@ public class ifState {
         if (isStudent){
             System.out.println("And you are a student");
         }else {
-            System.out.println("And you are not a student 🤣");
+            System.out.println("And you are not a student 🤣 ");
         }
 
 
