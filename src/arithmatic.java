@@ -23,11 +23,6 @@ public class arithmatic {
         z= 3 + 4 * (9-7)/2;
 
 
-
-
-
-
-
     System.out.println("\n"+z+"\n");
     System.out.println(x);
 

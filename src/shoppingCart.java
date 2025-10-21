@@ -24,7 +24,6 @@ public class shoppingCart {
         System.out.print("\nYou want to buy "+quantity+" "+item);
         System.out.print("\nHere is the total price for "+quantity+" "+item+" : "+currency+" "+total+"\n\n");
 
-
         scanner.close();
     }
 }

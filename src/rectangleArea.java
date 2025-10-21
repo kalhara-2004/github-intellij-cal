@@ -4,7 +4,7 @@ public class rectangleArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter the Hight :");
+        System.out.print("Enter the Height :");
         double hight = scanner.nextDouble();
 
         System.out.print("Enter the Length :");

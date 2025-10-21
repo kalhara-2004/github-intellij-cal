@@ -34,8 +34,6 @@ public class ifState {
             System.out.println("And you are not a student 🤣 ");
         }
 
-
-
         scanner.close();
 
     }
